@@ -1,0 +1,14 @@
+# Vpn
+{
+  "lastUpdate": "2026-06-19",
+  "workers": [
+    {
+      "address": "worker-1.yourname.workers.dev",
+      "port": 443,
+      "security": "tls",
+      "sni": "www.cloudflare.com",
+      "path": "/vless",
+      "status": "active"
+    }
+  ]
+}
